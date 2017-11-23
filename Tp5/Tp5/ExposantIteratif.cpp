@@ -1,3 +1,7 @@
+// ExposantIteratif.cpp
+// fait par Jonathan Dubreuil
+// 2017-11-23
+// Definition de la classe ExposantIteratif
 #include "ExposantIteratif.h"
 #include <iostream>
 using namespace std;

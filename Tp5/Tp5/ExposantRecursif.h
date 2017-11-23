@@ -1,3 +1,7 @@
+// ExposantRecursif.h
+// fait par Jonathan Dubreuil
+// 2017-11-23
+// Declaration de la classe ExposantRecursif
 #pragma once
 
 

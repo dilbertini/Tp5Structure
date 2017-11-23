@@ -1,3 +1,7 @@
+// main.cpp
+// fait par Jonathan Dubreuil
+// 2017-11-23
+// tester les classes ExposantIteratif et ExposantRecursif
 #include <iostream>
 #include "ExposantIteratif.h"
 #include "ExposantRecursif.h"
