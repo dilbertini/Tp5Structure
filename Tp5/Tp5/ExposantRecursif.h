@@ -9,6 +9,8 @@ class ExposantRecursif
 {
 public:
 	ExposantRecursif(int base, int exposant);
+	operator double() const;
 private:
+	double Reponse_;
 	double FonctionRecursive(int base, int exposant);
 };

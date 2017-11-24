@@ -7,6 +7,8 @@
 
 class ExposantIteratif
 {
+	double Reponse_;
 public:
 	ExposantIteratif(int base, int exposant);
+	operator double() const;
 };
